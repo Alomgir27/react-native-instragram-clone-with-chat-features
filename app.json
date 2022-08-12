@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Instragram",
+    "slug": "Instragram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Instragram"
+}
