@@ -1,4 +1,4 @@
-package com.instragram;
+package Android.com;
 
 import android.os.Build;
 import android.os.Bundle;

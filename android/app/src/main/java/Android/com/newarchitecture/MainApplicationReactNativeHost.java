@@ -1,4 +1,4 @@
-package com.instragram.newarchitecture;
+package Android.com.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.instragram.BuildConfig;
-import com.instragram.newarchitecture.components.MainComponentsRegistry;
-import com.instragram.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import Android.com.BuildConfig;
+import Android.com.newarchitecture.components.MainComponentsRegistry;
+import Android.com.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

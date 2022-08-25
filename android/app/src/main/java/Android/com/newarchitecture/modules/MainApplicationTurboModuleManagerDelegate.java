@@ -1,4 +1,4 @@
-package com.instragram.newarchitecture.modules;
+package Android.com.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
